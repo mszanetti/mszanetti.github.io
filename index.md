@@ -45,5 +45,5 @@ $$x_{t+1}=r x_t(1-x_t), ~x_t \in [0,1],~ \forall t$$
 
 <img src="assets/fig/unnamed-chunk-2.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" style="display: block; margin: auto;" />
 
-by the way, this is R!
+by the way, this is R code!
 

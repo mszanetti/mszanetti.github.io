@@ -313,13 +313,11 @@ slides > slide:not(.nobackground):before {
   line-height: 1.9;
 }
 
-}
 
 /* line 183, ../scss/default.scss */
 slides > slide:not(.nobackground):after {
   font-size: 12pt;
-  /*content: attr(data-slide-num) "/" attr(data-total-slides);*/
- content: "";
+  content: attr(data-slide-num) "/" attr(data-total-slides);
   position: absolute;
   bottom: 20px;
   right: 60px;
